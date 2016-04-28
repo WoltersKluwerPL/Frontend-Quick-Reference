@@ -1,4 +1,4 @@
-# FRONTEND-QUICK-REFERENCE
+# Frontend-Quick-Reference
 
 ## AngularJS 2.x
 
