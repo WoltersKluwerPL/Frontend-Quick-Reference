@@ -6,16 +6,17 @@
 
 * https://angular.io/
 
-### style guides
+### official style guide
 
-* https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md
-* https://github.com/mgechev/angular2-style-guide
+* https://angular.io/styleguide
 
 ### directives/components
 
 * https://github.com/BTMorton/angular2-grid
 * https://github.com/WoltersKluwerPL/ng2-spin-kit
 * http://www.primefaces.org/primeng/
+* http://valor-software.com/ng2-bootstrap/
+* http://valor-software.com/ng2-charts/
 
 ### courses
 
